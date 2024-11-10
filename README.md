@@ -7,18 +7,21 @@ Edit: So, yeah, I managed to do it. Now, if you have any suggestions, always tel
 
 
 # Installation
+```
 git clone https://github.com/karma9874/AndroRAT.git
 
 cd AndroRAT
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
+```
 # Execution
-
+```
 chmod 777 app.py
 
 python3 app.py
 
+```
 
     
       
