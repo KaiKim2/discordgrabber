@@ -13,6 +13,12 @@ cd AndroRAT
 
 pip install -r requirements.txt
 
+# Execution
+
+chmod 777 app.py
+
+python3 app.py
+
 
     
       
